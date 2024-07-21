@@ -1,5 +1,39 @@
 # A Forkable Constitution for a Decentralized Autonomous Government
 
+## ;TLDR
+
+1. Objective: Create an efficient coordination mechanism to align incentives, enhance market efficiency, and optimize resource conversion into universal health and happiness.
+
+2. Governance:
+  - Forkable, open-source structure implemented through smart contracts
+  - Laws implemented as smart contracts on a blockchain
+  - Decentralized arbitration using the Kleros system
+  - Preference allocation system using Aggregated Pairwise Preference Allocation (APPA)
+  - Futarchy system for policy decisions based on prediction markets
+  - AI president (highest-performing open-source AI model) as the primary governing entity
+
+3. Economy:
+  - FAIR TAX system: Automatic transaction tax on community token transfers
+  - Universal Basic Income (UBI) at poverty level, distributed daily via token airdrops
+  - Market-driven public goods funding using Hypercerts
+  - Perfect Information Initiative to maximize market efficiency
+
+4. Public Services and Problem-Solving:
+  - Outsourcing of essential public services to private companies
+  - AI-powered FDA (FDAi) for determining effects of foods and drugs
+  - Decentralized Semi-Autonomous Todo List for addressing global problems
+  - Use of digital twins and AI agents for problem-solving and service optimization
+
+5. Innovation and Efficiency:
+  - All government-funded code is open-source and stored using IPFS
+  - Continuous improvement of governance systems through AI-assisted analysis and citizen input
+
+6. Amendments and Forking:
+  - Constitution can be amended through Improvement Proposals (IPs) and citizen voting
+  - Designed to be forkable for experimentation by different communities
+  - Data from forked implementations shared for analysis and potential integration
+
+
 ## Preamble
 We, the citizens of this Decentralized Autonomous Government (DAG), establish this Constitution as the foundational code of our governance system with the primary aim of creating a coordination mechanism to align incentives and efficiently achieve our shared goals. We embrace innovation, decentralization, and the principles of open-source governance to enhance market efficiency, and accelerate the conversion of resources into universal health and happiness. Our governance system is designed to preserve individual liberty, uphold free market principles, and provide all economic actors with the most complete information possible to maximize market efficiency.
 
